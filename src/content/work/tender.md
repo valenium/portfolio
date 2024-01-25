@@ -2,34 +2,20 @@
 title: Tender
 publishDate: 2020-03-02 00:00:00
 img: /assets/restaurants.png
-img_alt: Tender
+img_alt: Tender show page
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Like Tinder, but for restaurants. Get paired with different restaurants in your area based on your location and preferences.
 tags:
-  - Design
-  - Dev
-  - User Testing
+  - Node.js
+  - Express
+  - Javascript
+  - MongoDB
+  - HTML
+  - CSS
 ---
-
-## Level-two heading
-
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
-
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
-
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
-
-### Level-three heading
-
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
-
-### Level-three heading
-
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
-
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
-
-#### Level-four heading
-
-- We noted this
-- And also this other point
+#### <a href="https://github.com/valenium/Tinder-But-For-Restaurants">GitHub</a> | <a href="https://tender-f3bf64ad9858.herokuapp.com/">App</a>
+- Developed using the MEN stack and CSS for styling with a team of 3 developers.
+- Integrated Yelp API allowing users to effortlessly search for restaurants based on individual preferences, leveraging Yelp's extensive database for accurate and relevant results.
+- Liked restaurants are saved to the user's profile for easy future access, ensuring a tailored dining experience, leveraging Google OAuth for secure user authentication.
+- Designed a dynamic and responsive UI where users can engage with a swipe-based interface, mirroring Tinder's approach. They can 'like' or 'dislike' restaurants, making the process both interactive and enjoyable
+- Offers a platform for users to leave reviews on saved restaurants, fostering a community of shared experiences and recommendations.
